@@ -22,5 +22,5 @@ tasks.generateGrammarSource {
 }
 
 application {
-    mainClass.set("Main")
+    mainClass.set("TarpitInterpreter")
 }
